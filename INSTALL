@@ -1,0 +1,8 @@
+
+					   INSTALL PHPbookmark
+
+1.	Copy all the file to you diretory.
+2.	Keep original directory structure, and make ./webroot as the
+	"webroot".
+3.	Import ./build/bookmarks.sql to database.
+4.	Enjoy your own backflip.
